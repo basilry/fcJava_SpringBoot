@@ -6,3 +6,7 @@
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 `
 0mvc-practice/src/main/java/org/example/Main.java,0\7\0765d29390e6f77beb43284a0919aeedc52e0697
+p
+@mvc-practice/src/main/java/org/example/WebApplicationServer.java,0\4\04630fcfd09f5eba54436d92c9298005615c78d4
+G
+mvc-practice/.gitignore,6\1\61e4f268aa5b9003243dfb4c3d5289907134c874
